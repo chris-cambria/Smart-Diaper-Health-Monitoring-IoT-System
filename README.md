@@ -1,2 +1,2 @@
 # Smart-Diaper
-Smart diaper is an IOT device which helps parents to track the overall health of their babies.
+An ESP32-C3-based IoT system to monitor diaper wetness, temperature, and gas emissions using capacitive moisture sensors and the DS18B20 sensor.The system integrates with Firebase Realtime Database for remote data access, tracks wetness frequency over 24 hours to detect possible dehydration, and resets counters daily. I ensure robust Wi-Fi connectivity with auto-reconnect and optimize sensor readouts for reliable, low-cost health monitoring, particularly for infant and elderly care.
