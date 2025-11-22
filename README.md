@@ -1,4 +1,4 @@
-# Smart-Diaper
+
 # ESP32-C3 Smart Diaper Health Monitoring IoT System
 
 A low-cost, ESP32-C3-based IoT health monitoring system designed for **infant and elderly care**, tracking **diaper wetness**, **skin temperature**, and **gas emissions**. The system continuously uploads sensor readings to **Firebase Realtime Database**, supports **Wi-Fi auto-reconnect**, and includes daily tracking of wetness frequency to help identify potential dehydration.
